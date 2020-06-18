@@ -15,3 +15,9 @@
       bailfunds:
         - name: Standing Committee for the Support of Demonstrators
           link: https://en.manif.co/
+    - name: Vancouver
+      latitude: 49.2827
+      longitude: 123.1207
+      bailfunds:
+        - name: Black Lives Matter Vancouver
+          link: https://www.gofundme.com/f/blmvan
